@@ -1,0 +1,15 @@
+✅ Day 1/30 — Git vs GitHub: What's the Real Difference?
+🚀 When I first started learning version control, I kept confusing Git and GitHub. If you're in the same boat, you're not alone.
+Here's the simple truth 👇
+🧠 Git is a version control system — it helps you track changes in your code. Think of it as a powerful tool that runs locally on your machine.
+🧠 GitHub is a remote platform — it hosts your Git repositories online so you can collaborate with others, open pull requests, and showcase your work.
+💡 Git = The tool
+ 💡 GitHub = The place where your Git work lives and breathes (with UI, collaboration, and cloud backup)
+🛠️ Example:
+ You can use Git entirely without GitHub, but you can’t use GitHub properly without Git.
+🔁 I use Git to manage versions.
+ 🌐 I use GitHub to share, collaborate, and grow my projects.
+📌 If you're just starting out, learn Git well — it’s your foundation.
+ Then explore GitHub to take your work to the next level.
+💬 Did you also confuse them in the beginning?
+ Let me know how you learned Git & GitHub!
